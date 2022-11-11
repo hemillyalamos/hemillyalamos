@@ -7,7 +7,7 @@
  
 <div>
   <h1 align="center">Hello, I'm <i>Hemilly</i></a><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> 😃️</h1>
-  <p align="center">I am a programming student and I use this profile to store most of my studies and work, feel free to check! 😉️</h2>
+  <p align="center">I am a programming student and I use this profile to store most of my studies, feel free to check! 😉️</h2>
 </div>
 
 <div align="center">
